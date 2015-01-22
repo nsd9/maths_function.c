@@ -22,7 +22,7 @@ int main()
        if (op=='?')
           printf("Unknown operator\n");
        else if (op=='q')
-          printf("Bye\n");
+          printf("ByeBye\n");
        else
           printf("%f %c %f = %f\n", a, op, b, r);
     }
