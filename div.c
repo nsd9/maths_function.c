@@ -7,4 +7,5 @@ int main ()
 	printf("%	\"\t\t\"\n");
 	return 0;
 }
+//divide function
 
