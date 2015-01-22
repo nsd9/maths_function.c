@@ -11,3 +11,4 @@ int main()
     printf("%i\t%i\t%i\n", t, t, !(t || t));
     return 0;
 }
+//multipication file
